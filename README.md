@@ -118,9 +118,10 @@ book.html
 
 </body>
 </html>
-
-<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/f1c83cb3-8b53-4888-8ca7-ba87f848873f" />
 ~~~
+![Screenshot (64)](https://github.com/user-attachments/assets/44a1ac08-72f4-42f5-a593-345792ab22b8)
+
+
 
 ## OUTPUT:
 
